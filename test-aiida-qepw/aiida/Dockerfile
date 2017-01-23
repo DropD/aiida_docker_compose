@@ -1,5 +1,5 @@
 # TODO: replace this with the docker image on the account aiidateam
-FROM ricoh/aiida-plugintest:base
+FROM ricoh/aiida-plugintest:core_and_qe
 
 MAINTAINER AiiDA Team <info@aiida.net>
 
